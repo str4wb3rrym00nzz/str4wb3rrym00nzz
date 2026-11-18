@@ -4,6 +4,8 @@
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=25&pause=500&color=BAFF54&center=true&random=true&width=290&height=35&lines=Have+some+sweets+!;I+baked+these+just+for+you+%E2%99%A1;I+could+be+baking+right+now+.+.+.)](https://git.io/typing-svg)
+
 <img width="1080" height="254" alt="1000007710" src="https://github.com/user-attachments/assets/7511a09b-39a5-46fb-885e-2466d33acbf3" />
 <img width="730" height="99" alt="tumblr_783c552f198e0e51f6c9c186e8019b79_c5af189e_1280" src="https://github.com/user-attachments/assets/f74747bf-4547-44f2-b15b-88c999351e04" />
 <img width="113" height="65" alt="tumblr_4a6df8dea77fc79f7445fda7ef0c9b0e_fcec5dbe_250" src="https://github.com/user-attachments/assets/b2f623a9-42b2-4938-bd24-2df88110aab6" />
