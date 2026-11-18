@@ -1,6 +1,6 @@
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/moon-berries-lightpink?style=plastic)
+![GitHub Views](https://gitviews.com/user/str4wb3rrym00nzz.svg?style=plastic&label=berries&label-color=green&color=lightpink)
 
 </div>
 
