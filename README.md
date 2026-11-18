@@ -3,3 +3,5 @@
 <img width="113" height="65" alt="tumblr_4a6df8dea77fc79f7445fda7ef0c9b0e_fcec5dbe_250" src="https://github.com/user-attachments/assets/b2f623a9-42b2-4938-bd24-2df88110aab6" />
 <img width="155" height="88" alt="tumblr_a01cfd1e8562db9c269920e2b6b26b9e_af8fec20_250" src="https://github.com/user-attachments/assets/e8907d10-f450-436f-a4f2-2da2244cf2fb" />
 <img width="1080" height="205" alt="1000007714" src="https://github.com/user-attachments/assets/e55f4238-1986-44ed-b40b-a6e479579886" />
+$${\color{blue}\text{This is a centered blue block.}}$$
+$${\color{blue}\text
