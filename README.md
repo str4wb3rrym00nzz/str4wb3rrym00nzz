@@ -6,10 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=25&pause=500&color=BAFF54&center=true&random=true&width=290&height=35&lines=Have+some+sweets+!;I+baked+these+just+for+you+%E2%99%A1;I+could+be+baking+right+now+.+.+.)](https://git.io/typing-svg)
 
+
 <img width="1080" height="254" alt="1000007710" src="https://github.com/user-attachments/assets/7511a09b-39a5-46fb-885e-2466d33acbf3" />
-<img width="730" height="99" alt="tumblr_783c552f198e0e51f6c9c186e8019b79_c5af189e_1280" src="https://github.com/user-attachments/assets/f74747bf-4547-44f2-b15b-88c999351e04" />
-<img width="113" height="65" alt="tumblr_4a6df8dea77fc79f7445fda7ef0c9b0e_fcec5dbe_250" src="https://github.com/user-attachments/assets/b2f623a9-42b2-4938-bd24-2df88110aab6" />
-<img width="155" height="88" alt="tumblr_a01cfd1e8562db9c269920e2b6b26b9e_af8fec20_250" src="https://github.com/user-attachments/assets/e8907d10-f450-436f-a4f2-2da2244cf2fb" />
+
+<img width="1767" height="141" alt="tumblr_b97a04372f06a239ee8eb2496106036d_9a1de9c0_2048" src="https://github.com/user-attachments/assets/05aed30d-9970-40fd-b398-47891dd9dbb2" />
+
 <img width="1080" height="205" alt="1000007714" src="https://github.com/user-attachments/assets/e55f4238-1986-44ed-b40b-a6e479579886" />
 
 <div align="center">
