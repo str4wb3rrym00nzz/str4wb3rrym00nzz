@@ -19,6 +19,6 @@ my current awards ! im so honored, thank you!
 
 <div align="center">
 
-$\color{Red}{\text{wip...}}$
+$\color{Mint}{\text{wip...}}$
 
 </div>
