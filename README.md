@@ -10,7 +10,7 @@
 
 <img width="90" height="18" alt="tumblr_a20a648c4baaa8b22911c33f9fe02190_d369ddf8_100" src="https://github.com/user-attachments/assets/ccf26e28-ef25-45e5-9fd5-f0f37f35d342" />
 
-$\color{Lightgreen}{\text{my current pt awards . im so honored ! tysm !}}$
+$\color{Lightgreen}{\text{my current pt awards ! thank you for adding me !}}$
 
 <img width="833" height="188" alt="1000007740" src="https://github.com/user-attachments/assets/d8021aba-f40a-4247-82ba-f7ed473ba9af" />
 
@@ -19,6 +19,6 @@ $\color{Lightgreen}{\text{my current pt awards . im so honored ! tysm !}}$
 
 <div align="center">
 
-$\color{Lightgreen}{\text{wip... im lazy ok}}$
+$\color{Lightgreen}{\text{wip... im lazy ok,, honestly i think im going to be remaking this theme and ata}}$
 
 </div>
