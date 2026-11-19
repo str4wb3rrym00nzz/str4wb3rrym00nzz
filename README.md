@@ -19,6 +19,6 @@ $\color{Lightgreen}{\text{my current pt awards . im so honored, ty !}}$
 
 <div align="center">
 
-$\color{Lightgreen}{\text{wip...}}$
+$\color{Lightgreen}{\text{wip... im lazy ok}}$
 
 </div>
