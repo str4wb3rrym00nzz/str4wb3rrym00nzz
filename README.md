@@ -19,6 +19,6 @@ my current awards ! im so honored, thank you!
 
 <div align="center">
 
-wip...
+$\color{red}{\text{wip...}}$
 
 </div>
