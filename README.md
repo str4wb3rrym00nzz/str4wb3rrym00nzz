@@ -19,6 +19,6 @@ my current awards ! im so honored, thank you!
 
 <div align="center">
 
-$\color{pink}{\text{wip...}}$
+$\color{lightpink}{\text{wip...}}$
 
 </div>
