@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=25&pause=500&color=BAFF54&center=true&random=true&width=290&height=35&lines=Have+some+sweets+!;I+baked+these+just+for+you+%E2%99%A1;I+could+be+baking+right+now+.+.+.)](https://git.io/typing-svg)
 
-
 <img width="1080" height="254" alt="1000007710" src="https://github.com/user-attachments/assets/7511a09b-39a5-46fb-885e-2466d33acbf3" />
 
 <img width="1767" height="141" alt="tumblr_b97a04372f06a239ee8eb2496106036d_9a1de9c0_2048" src="https://github.com/user-attachments/assets/05aed30d-9970-40fd-b398-47891dd9dbb2" />
