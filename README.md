@@ -19,6 +19,6 @@ $\color{#F3FFC5}{\text{my current pt awards , thank you for adding me !}}$
 
 <div align="center">
 
-$\color{#F3FFC5}{\text{wip... honestly i think im going to be remaking this whole theme and my ata at somepoint .}}$
+$\color{#F3FFC5}{\text{new theme wip . . .}}$
 
 </div>
