@@ -4,7 +4,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=25&pause=500&color=BAFF54&center=true&random=true&width=290&height=35&lines=Have+some+sweets+!;I+baked+these+just+for+you+%E2%99%A1;I+could+be+baking+right+now+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=22&pause=1000&color=91D1F7&center=true&random=true&width=435&lines=I+could+be+baking+right+now+.+.+.;Have+some+sweets+!;I+baked+these+just+for+you+%3C3;I+love+you%2C+Astro+.)](https://git.io/typing-svg)
 
 <img width="1080" height="176" alt="1000007771" src="https://github.com/user-attachments/assets/af85c289-afb2-4b50-ac84-8b79e9ed4910" />
 
