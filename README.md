@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Views](https://gitviews.com/user/str4wb3rrym00nzz.svg?style=plastic&label=berries&label-color=green&color=lightpink)
+![GitHub Views](https://gitviews.com/repo/str4wb3rrym00nzz/str4wb3rrym00nzz.svg?style=plastic&label=sprinkles&label-color=lightpink&color=lightblue&base=332)
 
 </div>
 
