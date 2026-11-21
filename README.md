@@ -17,7 +17,8 @@ $\color{#F3FFC5}{\text{my current pt awards , thank you for adding me !}}$
 <img width="833" height="188" alt="1000007740" src="https://github.com/user-attachments/assets/d8021aba-f40a-4247-82ba-f7ed473ba9af" />
 
 
-<img width="1080" height="176" alt="1000007771" src="https://github.com/user-attachments/assets/bba4fe85-bb0f-4784-bf1f-478653ca3c3d" />
+<img width="1080" height="308" alt="1000007781" src="https://github.com/user-attachments/assets/471c82c3-4c57-423e-bef8-36247c85dc9c" />
+
 
 
 <div align="center">
