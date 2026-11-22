@@ -26,6 +26,12 @@ $\color{#B4D3DE}{\text{pansexual / genderfluid / transmasc (ftm)}}$
 
 </div>
 
+<div align="center">
+
+$\color{Cornsilk}{\text{basic DNI criteria ok?}}$
+
+</div>
+
 <img width="1080" height="163" alt="1000007775" src="https://github.com/user-attachments/assets/6fb4db0a-6326-43d7-84b3-1e837db91067" />
 
 
