@@ -35,7 +35,8 @@ $\color{Cornsilk}{\text{my current pt awards , thank you for adding me !}}$
 
 <img width="1080" height="176" alt="1000007771" src="https://github.com/user-attachments/assets/c748817f-5ad3-47e3-875b-0791f45e0e4e" />
 
-<img width="903" height="526" alt="1000007777" src="https://github.com/user-attachments/assets/9c90c36d-baba-4961-9831-d8bd1908c6ac" />
+<img width="653" height="365" alt="1000007803" src="https://github.com/user-attachments/assets/af6c05fd-7c5d-4c76-aac1-413214ed0bd8" />
+
 
 
 <img width="1080" height="308" alt="1000007781" src="https://github.com/user-attachments/assets/471c82c3-4c57-423e-bef8-36247c85dc9c" />
