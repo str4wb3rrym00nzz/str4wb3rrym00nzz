@@ -68,9 +68,3 @@ $\color{Cornsilk}{\text{my current pt awards , thank you for adding me !}}$
 
 
 <img width="1080" height="308" alt="1000007781" src="https://github.com/user-attachments/assets/471c82c3-4c57-423e-bef8-36247c85dc9c" />
-
-<div align="center">
-
-$\color{Cornsilk}{\text{new theme wip . . .}}$
-
-</div>
