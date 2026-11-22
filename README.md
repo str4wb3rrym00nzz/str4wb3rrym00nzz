@@ -46,6 +46,13 @@ $\color{Cornsilk}{\text{BEWARE ; i have severe ADHD (medicated), depression, moo
 
 </div>
 
+
+<div align="center">
+
+$\color{#B4D3DE}{\text{comf ships,,, moonberry . fruitcake . mooncookie . candleberry . basketvision . and cookievision}}$
+
+</div>
+
 <img width="1080" height="163" alt="1000007775" src="https://github.com/user-attachments/assets/6fb4db0a-6326-43d7-84b3-1e837db91067" />
 
 
