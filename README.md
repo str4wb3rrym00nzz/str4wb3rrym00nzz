@@ -74,4 +74,5 @@ $\color{Cornsilk}{\text{my current pt awards , thank you for adding me !}}$
 
 <img width="1080" height="308" alt="1000007781" src="https://github.com/user-attachments/assets/471c82c3-4c57-423e-bef8-36247c85dc9c" />
 
-<img width="816" height="820" alt="1000007816" src="https://github.com/user-attachments/assets/a209d803-9ed8-4dd3-8842-fb13ccdd87c6" />
+<img width="560" height="543" alt="1000007818" src="https://github.com/user-attachments/assets/71889ed6-3954-4ef2-ade3-15acf1bfb9d7" />
+
