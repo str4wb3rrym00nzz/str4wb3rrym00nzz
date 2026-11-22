@@ -35,7 +35,7 @@ $\color{Cornsilk}{\text{basic DNI criteria.}}$
 
 <div align="center">
 
-$\color{#E8B3BC}{\text{moonberry shipper}}$
+$\color{#E8B3BC}{\text{c+h when alone , dniup/f or w2i always}}$
 
 </div>
 
