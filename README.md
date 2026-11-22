@@ -10,7 +10,7 @@
 
 <div align="center">
 
-$$\color{#E8B3BC}{\text{moon}}$$\color{#FFD6A9}{\text{or}}$$\color{#B4D3DE}{\text{sprout}}}$$
+$$\color{#E8B3BC}{\text{moon}}$$\color{#FFD6A9}{\text{or}}$$\color{#B4D3DE}{\text{sprout}}$}}}$$
 
 </div>
 
