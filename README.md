@@ -42,7 +42,7 @@ $\color{#E8B3BC}{\text{c+h when alone , dniup/f or w2i always.ᐟ.ᐟ}}$
 
 <div align="center">
 
-$\color{Cornsilk}{\text{ׂ╰┈➤BEWARE ; i have severe ADHD (medicated), depression, mood swings, and anger issues. so please iwcare when unwell ૮◞ ‸ ◟ ა}}$
+$\color{Cornsilk}{\text{ׂ╰┈➤BEWARE ; i have severe ADHD (medicated), depression, mood swings, and anger issues. so please iwcare or dni when unwell ૮◞ ‸ ◟ ა}}$
 
 </div>
 
