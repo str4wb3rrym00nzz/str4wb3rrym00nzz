@@ -22,7 +22,7 @@ $\color{Cornsilk}{\text{she / him / any . 15}}$
 
 <div align="center">
 
-$\color{#B4D3DE}{\text{pansexual / genderfluid / transmasc (ftm)}}$
+$\color{#B4D3DE}{\text{pansexual / genderfluid / transmasc ‹𝟹}}$
 
 </div>
 
