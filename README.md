@@ -13,6 +13,13 @@
 $\color{#E8B3BC}{\text{moon / sprout}}$
 
 </div>
+
+<div align="center">
+
+$\color{#B4D3DE}{\text{she/him/any}}$
+
+</div>
+
 <img width="90" height="18" alt="tumblr_a20a648c4baaa8b22911c33f9fe02190_d369ddf8_100" src="https://github.com/user-attachments/assets/ccf26e28-ef25-45e5-9fd5-f0f37f35d342" />
 
 $\color{#F3FFC5}{\text{my current pt awards , thank you for adding me !}}$
