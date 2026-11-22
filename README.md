@@ -16,7 +16,7 @@ $\color{#E8B3BC}{\text{moon or sprout}}$
 
 <div align="center">
 
-$\color{Cornsilk}{\text{she / him / any}}$
+$\color{Cornsilk}{\text{she / him / any . 15}}$
 
 </div>
 
