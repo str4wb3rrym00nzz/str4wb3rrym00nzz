@@ -42,6 +42,6 @@ $\color{Cornsilk}{\text{my current pt awards , thank you for adding me !}}$
 
 <div align="center">
 
-$\color{#F3FFC5}{\text{new theme wip . . .}}$
+$\color{Cornsilk}{\text{new theme wip . . .}}$
 
 </div>
