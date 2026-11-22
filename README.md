@@ -26,6 +26,9 @@ $\color{#B4D3DE}{\text{pansexual / genderfluid / transmasc (ftm)}}$
 
 </div>
 
+<img width="1080" height="163" alt="1000007775" src="https://github.com/user-attachments/assets/6fb4db0a-6326-43d7-84b3-1e837db91067" />
+
+
 <img width="90" height="18" alt="tumblr_a20a648c4baaa8b22911c33f9fe02190_d369ddf8_100" src="https://github.com/user-attachments/assets/ccf26e28-ef25-45e5-9fd5-f0f37f35d342" />
 
 $\color{#F3FFC5}{\text{my current pt awards , thank you for adding me !}}$
