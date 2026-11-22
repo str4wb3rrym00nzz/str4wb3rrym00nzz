@@ -16,13 +16,13 @@ $\color{#E8B3BC}{\text{moon or sprout}}$
 
 <div align="center">
 
-$\color{#B4D3DE}{\text{she / him / any}}$
+$\color{#FFFDE9}{\text{she / him / any}}$
 
 </div>
 
 <div align="center">
 
-$\color{#FFD6A9}{\text{pansexual / genderfluid / transmasc (ftm)}}$
+$\color{#B4D3DE}{\text{pansexual / genderfluid / transmasc (ftm)}}$
 
 </div>
 
