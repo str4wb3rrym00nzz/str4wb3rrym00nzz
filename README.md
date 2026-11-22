@@ -39,6 +39,13 @@ $\color{#E8B3BC}{\text{c+h when alone , dniup/f or w2i always}}$
 
 </div>
 
+
+<div align="center">
+
+$\color{Cornsilk}{\text{BEWARE ; i have severe ADHD (medicated), depression, mood swings, and anger issues, so please iwcare when unwell.}}$
+
+</div>
+
 <img width="1080" height="163" alt="1000007775" src="https://github.com/user-attachments/assets/6fb4db0a-6326-43d7-84b3-1e837db91067" />
 
 
