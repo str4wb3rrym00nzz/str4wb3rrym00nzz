@@ -10,7 +10,7 @@
 
 <div align="center">
 
-$\color{#E8B3BC}{\text{moon or sprout}}$
+$\color{#E8B3BC}{\text{.𖥔 ݁ ˖moon or sprout 𖹭}}$
 
 </div>
 
