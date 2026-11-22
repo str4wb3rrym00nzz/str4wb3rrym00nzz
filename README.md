@@ -16,7 +16,7 @@ $\color{#E8B3BC}{\text{moon / sprout}}$
 
 <div align="center">
 
-$\color{#B4D3DE}{\text{she/him/any}}$
+$\color{#B4D3DE}{\text{she / him / any}}$
 
 </div>
 
