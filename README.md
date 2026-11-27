@@ -28,7 +28,7 @@ $\color{#B4D3DE}{\text{pansexual / genderfluid / transmasc ‹𝟹}}$
 
 <div align="center">
 
-$\color{Cornsilk}{\text{basic DNI criteria.}}$
+$\color{Cornsilk}{\text{۶۟ৎ basic DNI criteria.}}$
 
 </div>
 
@@ -49,7 +49,7 @@ $\color{Cornsilk}{\text{ׂ╰┈➤BEWARE ; i have severe ADHD (medicated), depr
 
 <div align="center">
 
-$\color{#B4D3DE}{\text{comf ships,,, moonberry . fruitcake . mooncookie . basketvision . and cookievision}}$
+$\color{#B4D3DE}{\text{.˚❆ .˚comf ships,,, moonberry . fruitcake . mooncookie . basketvision . and cookievision}}$
 
 </div>
 
